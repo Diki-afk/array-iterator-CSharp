@@ -1,0 +1,8 @@
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\obj\Debug\E32190192arraylteratorcol.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\obj\Debug\E32190192arraylteratorcol.MainForm.resources
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\obj\Debug\E32190192arraylteratorcol.csproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\bin\Debug\E32190192arraylteratorcol.exe.config
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\bin\Debug\E32190192arraylteratorcol.exe
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\bin\Debug\E32190192arraylteratorcol.pdb
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\obj\Debug\E32190192arraylteratorcol.exe
+C:\Users\lenovo\OneDrive\Dokumen\SharpDevelop Projects\E32190192arraylteratorcol\E32190192arraylteratorcol\obj\Debug\E32190192arraylteratorcol.pdb
